@@ -1,3 +1,3 @@
-document.getElementById("redirect").addEventListener("click", () => {
-  window.location = "";
-});
+// document.getElementById("redirect").addEventListener("click", () => {
+//   window.location = "";
+// });
